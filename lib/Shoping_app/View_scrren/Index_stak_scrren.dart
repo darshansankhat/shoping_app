@@ -45,7 +45,7 @@ class _Index_stakState extends State<Index_stak> {
                   child: Column(
                     children: [
                       Icon(Icons.home,size: 30,color: Colors.grey,),
-                      Text("Home",style: TextStyle(fontSize: 15,color: Colors.grey),)
+                      Text("Home",style: TextStyle(fontSize: 15,color: Colors.grey),),
                     ],
                   ),
                 ),
